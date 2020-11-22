@@ -1,0 +1,3 @@
+[submodule "sandiegodata.org-crime_victims"]
+	path = sandiegodata.org-crime_victims
+	url = https://github.com/metatab-packages/sandiegodata.org-crime_victims.git
